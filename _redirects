@@ -1,0 +1,2 @@
+# This rewrites the root URL (/) to serve the index.json file. 
+/  /index.json  200
